@@ -24,4 +24,10 @@ Here we have to do Both in X direction and y direction which will detect both ve
 For more Information on Sobel Operator visit:
 
 #### [Finding Edges using Sobel Operator](https://www.youtube.com/watch?v=uihBwtPIBxM)
+### The Image we will be Testing is:-
 
+<img src="./images/test.jpg" width="600" height="450">
+
+### The Output File of Sobel_XY is:-
+
+<img src="./images/sobelxy.jpg" width="600" height="450">
