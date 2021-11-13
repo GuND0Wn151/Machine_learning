@@ -4,8 +4,11 @@ Image Edge Detection is done on the bases of change in intensies of the color. I
 
 Sobel Edge Dection has a Kernal which is kinda like a matrix and this is usefull for finding the Edge
 Example of a Kernal is 
+
 	[ -1 , 0 , 1
+	
 	 -2 , 0 , 2
+	 
 	  -2 , 0 , 2 ]
 #### This is sobel x and sobel y is transpose of this matrix
   
