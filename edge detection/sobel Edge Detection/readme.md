@@ -18,7 +18,7 @@ Here we have to do Both in X direction and y direction which will detect both ve
 
 ### For Getting More clarity in the images we need to convert the image in grayscale so the RGB colors are converted into intensities.
 
-#### As we are only Finding the Edges or outline of the image we will be only using sobel_y
+#### Combining both sobel_x and sobel_y we can get more clarity edges in both vertical and horizontal ways.
 
 For more Information on Sobel Operator visit:
 
