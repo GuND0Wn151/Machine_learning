@@ -10,6 +10,7 @@ Example of a Kernal is
 	 -2 , 0 , 2
 	 
 	  -2 , 0 , 2 ]
+## In Your Code we will be taking Kernal of 5x5 size
 #### This is sobel x and sobel y is transpose of this matrix
   
 #### Note: The Size of Matrix must be a odd number
